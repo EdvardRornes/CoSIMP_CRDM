@@ -55,7 +55,7 @@ To support these options, modify `dsddcom.h` accordingly. A default effective de
 
 ## Related References
 
-- Master's Thesis: *Probing Co-SIMPs with Cosmic Ray Dark Matter* (Edvard Rørnes, 2025). See [duo.uio](https://www.duo.uio.no/handle/10852/14/discover?query=Cosmic-ray+boosted+Co-SIMPs&sort_by=dc.date.issued_dt&order=DESC&rpp=100&filtertype=type&filter_relational_operator=equals&filter=Masteroppgave) for more details. (Note it will be made available ~ 120 days after this update, exact link will be updated once available)
+- Master's Thesis: *Cosmic-Ray Upscattered Co-SIMPs* (Edvard Rørnes, 2025). See [duo.uio](https://www.duo.uio.no/handle/10852/14/discover?query=Cosmic-ray+boosted+Co-SIMPs&sort_by=dc.date.issued_dt&order=DESC&rpp=100&filtertype=type&filter_relational_operator=equals&filter=Masteroppgave) for more details. (Note it will be made available ~ 120 days after this update, exact link will be updated once available)
 - DarkSUSY: [https://github.com/DarkSUSY/DarkSUSY](https://github.com/DarkSUSY/DarkSUSY)
 - This module: [https://github.com/EdvardRornes/CoSIMP_CRDM](https://github.com/EdvardRornes/CoSIMP_CRDM)
 
