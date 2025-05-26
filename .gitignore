@@ -1,0 +1,33 @@
+# Compiled object files
+*.o
+*.mod
+*.d
+
+# Executables (typical Fortran and C build output)
+*.exe
+*.out
+*.x
+*.so
+*.a
+
+# Build output from make
+*.make
+*.dep
+*.bak
+
+# Debug and core dumps
+core
+core.*
+
+# Temporary files
+*~
+.#*
+*.swp
+*.swo
+.DS_Store
+
+# Output directories (optional, depending on your setup)
+build/
+bin/
+obj/
+tmp/
