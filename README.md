@@ -2,7 +2,7 @@
 
 This repository provides a custom implementation of Co-Scattering Strongly Interacting Massive Particles (Co-SIMPs) probed via Cosmic Ray Dark Matter (CRDM) within the [DarkSUSY](http://www.darksusy.org) framework. The modifications support relativistic 2→3 inelastic scattering, attenuation modeling, and two-loop elastic processes to derive realistic constraints on DM–SM interactions.
 
-The code supports all numerical results from Edvard Rørnes' master's thesis (2025), and is built on top of DarkSUSY 6.4.1.
+The code supports all numerical results from Edvard Rørnes' master's thesis (2025), and is built on top of DarkSUSY 6.4.1. No other versions have been tested.
 
 ## Repository Structure
 
@@ -61,4 +61,4 @@ To support these options, modify `dsddcom.h` accordingly. A default effective de
 
 ## License
 
-This project is distributed for academic purposes. Feel free to use 
+This project is distributed for academic purposes. Feel free to use without citation.
