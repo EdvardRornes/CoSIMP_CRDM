@@ -6,7 +6,7 @@ The code supports all numerical results from Edvard Rørnes' master's thesis (20
 
 ## Repository Structure
 
-All new programs are prefixed with `DDCR_`. Key computational routines are located in the `my_replaceable/` directory:
+All programs are prefixed with `DDCR_`. Key computational routines are located in the `my_replaceable/` directory:
 
 ### Core Files
 | File                              | Description                                                        |
